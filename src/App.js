@@ -164,6 +164,7 @@ export default function App() {
 
                 <button onClick={() => updateQuantity(index, 1)}>
                   ➕
+                  
                 </button>
               </div>
             </div>
